@@ -19,9 +19,9 @@ footer {
     width: 93%;
     margin: 5%;
     padding-right: 1%;
-    position: relative;
+    /* position: relative;
     left: 5%;
-    padding-bottom: 1%;
+    padding-bottom: 1%; */
 }
 
 #Nic {
@@ -34,7 +34,10 @@ footer {
 
 h4 {
     background-color: blue;
-    width: 25%;
+    width: 95%;
     padding: 5%;
-    margin: 10%;    
+    /* position: relative;
+    bottom: 28%;
+    left: 2%;  */
+    margin: 0 auto;  
 }
