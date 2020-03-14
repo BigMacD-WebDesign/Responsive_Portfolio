@@ -20,9 +20,7 @@ footer {
     margin: 5%;
     padding-right: 5%;
     padding-bottom: 3%;
-    /* position: relative;
-    top: 5%;
-    padding-bottom: 1%; */
+
 }
 
 #Nic {
@@ -33,6 +31,11 @@ footer {
     padding-top: 1.5%;
 }
 
+/* 
+    ================================================
+    h4 for the text within images on Portfolio page.
+    ================================================
+ */
 h4 {
     background-color: blue;
     width: 100%;
