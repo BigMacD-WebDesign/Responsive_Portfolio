@@ -5,14 +5,8 @@ body {
     min-height: 100%;
 }
 
-footer {
-    width: 100%;
-    height: 7%;
-    position: fixed;
-    bottom: 0;
-    background-color: gray;
-    text-align: center;
-}
+
+
 .container {
     background-color: white;
     height: 80%;
@@ -44,4 +38,32 @@ h4 {
     position: relative;
     top: 85%;
     /* margin-bottom: 100%;   */
+}
+
+/*
+    ==============================
+    Styling for the footer section
+    ==============================
+ */
+ul {
+    list-style-type: none;
+    
+}
+
+li {
+    display: inline;
+}
+
+#social_media {
+    margin-left: 10%;
+}
+
+footer {
+    width: 100%;
+    min-height: 5%;
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    text-align: center;
+    display: flex;
 }
