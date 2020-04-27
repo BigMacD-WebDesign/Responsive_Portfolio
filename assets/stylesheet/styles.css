@@ -8,7 +8,7 @@ body {
 
 
 .container {
-    background-color: white;
+    background-color: #f0ead6 ;
     height: 80%;
     width: 95%;
     margin: 5%;
@@ -19,6 +19,7 @@ body {
 
 #Nic {
     margin: 3%;
+    text-align: center;
 }
 
 .copy {
@@ -37,7 +38,6 @@ h4 {
     padding: 2%;
     position: relative;
     top: 85%;
-    /* margin-bottom: 100%;   */
 }
 
 /*
@@ -52,10 +52,6 @@ ul {
 
 li {
     display: inline;
-}
-
-#social_media {
-    margin-left: 10%;
 }
 
 footer {
