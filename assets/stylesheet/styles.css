@@ -6,7 +6,6 @@ body {
 }
 
 
-
 .container {
     background-color: #f0ead6 ;
     height: 80%;
@@ -15,6 +14,10 @@ body {
     padding-right: 5%;
     padding-bottom: 3%;
 
+}
+
+.row {
+    align-content: center;
 }
 
 #Nic {
